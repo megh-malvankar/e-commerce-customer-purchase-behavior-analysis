@@ -94,5 +94,5 @@ E-Commerce-Customer-Behavior-Analysis
 
 **Megh Malvankar**
 
-- LinkedIn: https://www.linkedin.com/in/pranavbhosale10
-- GitHub: https://github.com/pranavbhosale10
+- LinkedIn: https://www.linkedin.com/in/megh-malvankar
+- GitHub: https://github.com/megh-malvankar
